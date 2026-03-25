@@ -1,0 +1,6 @@
+### Anyone who runs my project can install everything with a single command without knowing which libraries I used.
+python-dotenv
+requests
+openai
+firecrawl-py
+streamlit
