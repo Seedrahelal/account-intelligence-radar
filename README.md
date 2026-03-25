@@ -30,7 +30,7 @@ and it returns a list of companies to target.
 
 ## Architecture
 
-![Architecture Diagram](architecture.svg)
+![Architecture Diagram](architecture_diagram.svg)
 
 account-intelligence-radar/
 ├── app.py
