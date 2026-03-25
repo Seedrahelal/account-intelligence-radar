@@ -31,7 +31,7 @@ and it returns a list of companies to target.
 ## Architecture
 
 ![Architecture Diagram](architecture_diagram.svg)
-
+```
 account-intelligence-radar/
 ├── app.py
 ├── searcher.py
@@ -49,7 +49,7 @@ account-intelligence-radar/
     ├── saudi_aramco_*.md   
     ├── sabic_*.json        
     └── sabic_*.md          
-
+```
 ---
 
 
